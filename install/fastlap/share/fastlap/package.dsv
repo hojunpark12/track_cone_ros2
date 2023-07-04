@@ -1,0 +1,9 @@
+source;share/fastlap/hook/pythonpath.ps1
+source;share/fastlap/hook/pythonpath.dsv
+source;share/fastlap/hook/pythonpath.sh
+source;share/fastlap/hook/ament_prefix_path.ps1
+source;share/fastlap/hook/ament_prefix_path.dsv
+source;share/fastlap/hook/ament_prefix_path.sh
+source;../../build/fastlap/share/fastlap/hook/pythonpath_develop.ps1
+source;../../build/fastlap/share/fastlap/hook/pythonpath_develop.dsv
+source;../../build/fastlap/share/fastlap/hook/pythonpath_develop.sh

@@ -1,0 +1,1 @@
+/home/mds2/robot_ws/src/build/ackermann_msgs/ament_cmake_environment_hooks/pythonpath.sh

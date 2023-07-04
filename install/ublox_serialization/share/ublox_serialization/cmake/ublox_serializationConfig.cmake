@@ -1,0 +1,1 @@
+/home/mds2/robot_ws/src/build/ublox_serialization/ament_cmake_core/ublox_serializationConfig.cmake

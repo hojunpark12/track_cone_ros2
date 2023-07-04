@@ -1,0 +1,1 @@
+/home/mds2/robot_ws/src/ublox/ublox_msgs/msg/CfgNMEA7.msg

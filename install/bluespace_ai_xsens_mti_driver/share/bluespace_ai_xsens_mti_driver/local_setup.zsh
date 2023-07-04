@@ -1,0 +1,1 @@
+/home/mds2/robot_ws/src/build/bluespace_ai_xsens_mti_driver/ament_cmake_environment_hooks/local_setup.zsh

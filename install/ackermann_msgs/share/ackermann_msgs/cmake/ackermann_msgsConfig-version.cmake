@@ -1,0 +1,1 @@
+/home/mds2/robot_ws/src/build/ackermann_msgs/ament_cmake_core/ackermann_msgsConfig-version.cmake
